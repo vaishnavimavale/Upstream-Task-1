@@ -1,0 +1,32 @@
+.infocontaniar_education{
+    width:60vw;
+    height: 68vh;
+    margin: 144px auto;   
+    text-align:unset;  
+}
+
+.colorlib-heading{
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.infocontaniar_education p {
+    text-align: left;
+    /* font-weight: 550; */
+    /* color:rgb(141, 136, 136) ; */
+}
+
+.infocontaniar_education h2{
+    color: rgb(141, 136, 136);
+   
+}
+.school{
+    margin:40px;
+}
+
+.school p{
+     background-color:rgb(240, 244, 244);
+     
+}
+
